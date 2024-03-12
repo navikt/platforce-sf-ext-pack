@@ -37,6 +37,7 @@
     "financialforce.lana",
     "PeterWeinberg.apexdox-vs-code",
     "DavidAnson.vscode-markdownlint",
-    "vscode-icons-team.vscode-icons"
+    "vscode-icons-team.vscode-icons",
+    "eamodio.gitlens"
   ]
 }
