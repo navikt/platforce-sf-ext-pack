@@ -2,7 +2,7 @@
   "name": "platforce-sf-ext-pack",
   "displayName": "Platforce Salesforce Extension Pack",
   "description": "NAV Platforce extensions for developing on the NAV Salesforce Platform",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "NAV",
   "license": "MIT",
   "repository": {
@@ -38,6 +38,8 @@
     "PeterWeinberg.apexdox-vs-code",
     "DavidAnson.vscode-markdownlint",
     "vscode-icons-team.vscode-icons",
-    "eamodio.gitlens"
+    "eamodio.gitlens",
+    "GitHub.vscode-pull-request-github",
+    "GitHub.vscode-github-actions"
   ]
 }
