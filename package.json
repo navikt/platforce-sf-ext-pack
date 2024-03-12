@@ -5,6 +5,12 @@
   "version": "0.0.1",
   "publisher": "NAV",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/navikt/platforce-sf-ext-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/navikt/platforce-sf-ext-pack/issues"
+  },
   "engines": {
     "vscode": "^1.87.0"
   },
