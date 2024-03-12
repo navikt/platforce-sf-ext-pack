@@ -33,6 +33,7 @@ jobs:
       - name: Package the extension pack
         run: |
           vsce package
+          ls
 
       - name: Read package.json
         uses: krstphrrr/package-json-version-reader@v1.0.0
